@@ -10,7 +10,6 @@ pip install numpy
 
 ##Usage
 
-
 ```python
 import numpy
 numpy.pluralized('image') #returns 'Image'
