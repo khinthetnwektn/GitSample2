@@ -10,6 +10,7 @@ pip install numpy
 
 ##Usage
 
+
 ```python
 import numpy
 numpy.pluralized('image') #returns 'Image'
@@ -21,6 +22,7 @@ numpy.singularize('phenomena') #returns 'phenomena'
 ![alt text](https://www.stellaandchewys.com/wp-content/uploads/maplechristmas.jpg)
 
 ##Contributing
+
 
 ```
 Pull Request are welcome. For Major Changes, Please open an issue first to discuss what you would like to change.
