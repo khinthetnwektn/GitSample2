@@ -57,7 +57,7 @@ from math import pi
 
 Please make sure to update tests as appropriate
 
-- ![#FF0000]'RED'
+- ![#FF0000]`RED`
 
 ```diff
 -text in red
