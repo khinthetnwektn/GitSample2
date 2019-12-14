@@ -1,4 +1,4 @@
-#numpy
+# numpy
 
 Numpy is A Python Library for dealing with numerical useful pthon package.
 
@@ -20,6 +20,7 @@ numpy.singularize('phenomena') #returns 'phenomena'
 
 
 ![alt text](https://www.stellaandchewys.com/wp-content/uploads/maplechristmas.jpg)
+![sloth image](https://www.rainforest-alliance.org/sites/default/files/styles/750w_585h/public/2016-09/three-toed-sloth.jpg)
 
 ## Contributing
 
@@ -30,14 +31,14 @@ Pull Request are welcome. For Major Changes, Please open an issue first to discu
 ```python
 from math import pi
 ```
--numpy
--matplotlib
--scipy
--tensor-core
+- numpy
+- matplotlib
+- scipy
+- tensor-core
 
 Please make sure to update tests as appropriate
 
--![#FF0000]'RED'
+- ![#FF0000]'RED'
 
 ```diff
 -text in red
