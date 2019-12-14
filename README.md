@@ -8,7 +8,8 @@ Use the package manager [numpy](http://pip.pypa.io/en/stable/) to install numpy 
 pip install numpy
 ```
 
-##Usage
+## Usage
+
 
 ```python
 import numpy
@@ -20,7 +21,7 @@ numpy.singularize('phenomena') #returns 'phenomena'
 
 ![alt text](https://www.stellaandchewys.com/wp-content/uploads/maplechristmas.jpg)
 
-##Contributing
+## Contributing
 
 
 ```
