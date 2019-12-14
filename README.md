@@ -20,9 +20,21 @@ numpy.pluralized('goose') #returns 'geese'
 numpy.singularize('phenomena') #returns 'phenomena'
 ```
 
+```java
+if(a==0){
+system.out.print("Hello World")
+}
+```
+
+```diff
++green text
+```
+
 
 ![alt text](https://www.stellaandchewys.com/wp-content/uploads/maplechristmas.jpg)
 ![sloth image](https://www.rainforest-alliance.org/sites/default/files/styles/750w_585h/public/2016-09/three-toed-sloth.jpg)
+
+
 
 ## Contributing
 
@@ -53,6 +65,9 @@ Please make sure to update tests as appropriate
 !text in orange
 #text in grey
 ```
+
+## Modify image size
+<img src="https://www.stellaandchewys.com/wp-content/uploads/maplechristmas.jpg" alt="cat image" width="600" height="600">
 
 [MIT](https://choosealicense.com/licenses/mit)
 
