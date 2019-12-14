@@ -1,4 +1,6 @@
 # numpy
+## numpy
+### numpy
 
 Numpy is A Python Library for dealing with numerical useful pthon package.
 
@@ -28,6 +30,11 @@ numpy.singularize('phenomena') #returns 'phenomena'
 ```
 Pull Request are welcome. For Major Changes, Please open an issue first to discuss what you would like to change.
 ```
+
+```
+Make Software. For major changes, Please open the new world.
+```
+
 ```python
 from math import pi
 ```
